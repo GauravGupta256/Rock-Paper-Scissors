@@ -10,7 +10,7 @@ Just a simple code for [Rock-Paper-Scissors](https://github.com/GauravGupta256/R
 
 ## Demo
 
-https://rock-paper-scissors.vercel.app/
+[Click here to access demo](https://rock-paper-scissors.vercel.app/)
 
 ## 🚀 About Me
 Soon...
